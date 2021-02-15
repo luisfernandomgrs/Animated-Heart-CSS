@@ -6,30 +6,21 @@
     box-sizing: border-box;
     font-family: "Roboto",sans-serif;
 }
-/* body {
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #e80202;
-} */
-/* h2 {
+h2 {
     color: #fff;
     text-align: center;
     font-size: 12vw;
     line-height: 0.6em;
     z-index: 1000;
     font-weight: 900;
-    // pointer-events: none;
+    /* pointer-events: none; */
 }
 h2 span {
     font-size: 0.2em;
     letter-spacing: 0.4em;
     font-weight: 400;
     text-transform: uppercase;
-} */
+}
 .container {
     position: absolute;
     top: 0;
